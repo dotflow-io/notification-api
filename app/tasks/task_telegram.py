@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 
 @action
-def notify_telegram(initial_context):
+def task_telegram(initial_context):
     load_dotenv()
     context = initial_context.storage
 
