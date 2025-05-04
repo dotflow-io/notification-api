@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "notification-api"
+name = "Telegram-api"
 version = "0.1.0"
 description = ""
 authors = ["FernandoCelmer <email@fernandocelmer.com>"]
